@@ -64,7 +64,7 @@ To get a local copy up and running:
 
 #### Prerequisites
 
-- [Install Docker](https://docs.docker.com/desktop/)
+- [Docker](https://docs.docker.com/desktop/)
 - Java 17 JDK ([Temurin](https://adoptium.net/temurin/releases/?version=17&package=jdk) and [SDKMAN](https://sdkman.io/install) are recommended)
 - [PostgreSQL](https://www.postgresql.org/) (included in docker compose)
 - [Node.js](https://nodejs.org/en/) ([Volta](https://volta.sh/) is recommended)
